@@ -21,3 +21,5 @@ const users = [
     listings: [],
   },
 ];
+
+export default users;

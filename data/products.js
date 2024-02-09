@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Wireless Bluetooth Headphones",
     image: "/images/headphones.jpg",
     gallery: [
@@ -23,7 +22,6 @@ const products = [
     isWishList: true,
   },
   {
-    _id: "2",
     name: "Amazing Watch",
     image: "/images/watch.jpg",
     gallery: [
@@ -46,7 +44,6 @@ const products = [
     isWishList: true,
   },
   {
-    _id: "3",
     name: "Polaroid Film Camera",
     image: "/images/film-camera.jpg",
     gallery: [
@@ -69,7 +66,6 @@ const products = [
     isWishList: true,
   },
   {
-    _id: "4",
     name: "Apple Electronics Set",
     image: "/images/apple-set.jpg",
     gallery: [
@@ -91,7 +87,6 @@ const products = [
     isWishList: true,
   },
   {
-    _id: "5",
     name: "Gaming Keyboard",
     image: "/images/keyboard.jpg",
     gallery: [
@@ -114,7 +109,6 @@ const products = [
     isWishList: true,
   },
   {
-    _id: "6",
     name: "iPhone",
     image: "/images/iphone.jpg",
     gallery: [
